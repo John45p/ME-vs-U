@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS mevsu_db;
+CREATE DATABASE mevsu_db;
+
